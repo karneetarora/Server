@@ -9,5 +9,5 @@ Program Outline:
 4. If the Key being passed exists in the file, Server sends back the value of the key, otherwise sends back “NOT FOUND”. 
 
 The programs runs with the following command lines:
-  python Server.py PORT
-  python Client.py SERVERADDRESS PORT
+  - python Server.py PORT
+  - python Client.py SERVERADDRESS PORT
